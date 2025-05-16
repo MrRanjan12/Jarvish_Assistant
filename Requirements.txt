@@ -15,3 +15,17 @@ pygame
 edge-tts
 PyQt5
 webdriver-manager
+httpx-sse  
+
+httpcore            
+httpx               
+pip                 
+
+python-dotenv       
+pyttsx3            
+
+rich               
+selenium            
+six                 
+sniffio            
+SpeechRecognition   

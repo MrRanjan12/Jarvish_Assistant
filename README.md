@@ -28,6 +28,6 @@ Jarvish is a powerful, voice-activated desktop assistant developed using Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jarvish-desktop-ai-assistant.git
-   cd jarvish-desktop-ai-assistant
+   git clone https://github.com/MrRanjan12/Jarvish_Assistant.git
+   cd <folder_name>
 
